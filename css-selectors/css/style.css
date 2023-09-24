@@ -1,0 +1,32 @@
+/* asterisk selects everything on the page. also known as Universal selector */
+/* *{
+    font-family: monospace;
+} */
+
+/* how 2 use a group selector */
+h1, h2{   
+ color:blue;
+}
+
+/* this is an element */
+body{
+    font-size: 22px;
+}
+
+/* this is an element */
+p{
+    color: purple;
+}
+/* this is a class selector */
+.gray{
+    color: gray;
+}
+/* this is an id selector */
+#second{
+    font-style: italic;
+}
+  /* This is how to implement a nested selector */
+  p span{
+    text-transform: uppercase;
+    background-color: gold;
+  }

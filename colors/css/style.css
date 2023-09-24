@@ -1,0 +1,19 @@
+html{
+    font: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background: papayawhip;
+    color: rgb(255,0,0); for white
+}
+/* hw 2 use the r green blue alpha */
+p{
+    color:rgba(,0,0,0,0.5);
+}
+/* hw 2 use hexdecimal */
+p{
+    color:rgba(0,0,0,0.5);
+}
+/* how to use hsl */
+p{
+    color: #3333;
+}
