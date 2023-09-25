@@ -1,0 +1,16 @@
+ /* using css to import external  */
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body{
+    padding: 10%;
+    font-size: 2rem;
+    font-family:'Roboto', san-serif;
+}
+ol{
+    /* list-style-type: lower-alpha; */
+    /* list-style-type: georgian; */
+    /* list-style-type: decimal; */
+    /* list-style-type: decimal-leading-zero; */
+    /* list-style-type: disc; */
+    /* list-style-type: circle; */
+    list-style-type: upper-roman;
+}
